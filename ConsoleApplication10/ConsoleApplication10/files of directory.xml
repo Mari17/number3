@@ -1,0 +1,2713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file>
+	<name>&quot;AdobePhotoshop10ru_RU.build.log&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\AdobePhotoshop10ru_RU.build.log</adress>
+	<size>1053109</size>
+	<sha1>2efe7439793322ce804dceb944fee4ab95c4f552</sha1>
+</file>
+<file>
+	<name>&quot;AdobePhotoshop10ru_RU.manifest.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\AdobePhotoshop10ru_RU.manifest.xml</adress>
+	<size>3676767</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobePhotoshop10ru_RU.summary.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\AdobePhotoshop10ru_RU.summary.html</adress>
+	<size>2274429</size>
+	<sha1>4514949bf737d6a8e5613ff152c0c4bc7f32fa26</sha1>
+</file>
+<file>
+	<name>&quot;AdobePhotoshop10ru_RU.validation.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\AdobePhotoshop10ru_RU.validation.xml</adress>
+	<size>53</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobePhotoshop10ru_RU.vsd.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\AdobePhotoshop10ru_RU.vsd.xml</adress>
+	<size>1537678</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobePhotoshop10ru_RU.win32.payload.log&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\AdobePhotoshop10ru_RU.win32.payload.log</adress>
+	<size>5053252</size>
+	<sha1>a5ae3e602dfb9222ef632ae11d4aa0faccec99ca</sha1>
+</file>
+<file>
+	<name>&quot;AdobePhotoshop10ru_RU_stagingAreaCheck.log&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\AdobePhotoshop10ru_RU_stagingAreaCheck.log</adress>
+	<size>239</size>
+	<sha1>679509dc972f75700f18e083a71a1c59283f84a6</sha1>
+</file>
+<file>
+	<name>&quot;Deployment.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\Deployment.xml</adress>
+	<size>327</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeALMAnchorServiceAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeALMAnchorServiceAll\AdobeALMAnchorServiceAll.boot.xml</adress>
+	<size>5616</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeALMAnchorServiceAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeALMAnchorServiceAll\AdobeALMAnchorServiceAll.msi</adress>
+	<size>1762304</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeALMAnchorServiceAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeALMAnchorServiceAll\AdobeALMAnchorServiceAll.proxy.xml</adress>
+	<size>8510</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeALMAnchorServiceAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeALMAnchorServiceAll\AdobeALMAnchorServiceAll1.cab</adress>
+	<size>384220</size>
+	<sha1>902b595c8161dd8f0c1c8e608bfab0c023504395</sha1>
+</file>
+<file>
+	<name>&quot;AdobeAssetServices3All.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeAssetServices3All\AdobeAssetServices3All.boot.xml</adress>
+	<size>5547</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeAssetServices3All.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeAssetServices3All\AdobeAssetServices3All.msi</adress>
+	<size>2423808</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeAssetServices3All.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeAssetServices3All\AdobeAssetServices3All.proxy.xml</adress>
+	<size>8938</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeAssetServices3All1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeAssetServices3All\AdobeAssetServices3All1.cab</adress>
+	<size>16626247</size>
+	<sha1>39713e99bcbd5597196ff2b5f71dae540ead7570</sha1>
+</file>
+<file>
+	<name>&quot;AdobeAUM5.1All.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeAUM5.1All\AdobeAUM5.1All.boot.xml</adress>
+	<size>5711</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeAUM5.1All.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeAUM5.1All\AdobeAUM5.1All.msi</adress>
+	<size>2424320</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeAUM5.1All.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeAUM5.1All\AdobeAUM5.1All.proxy.xml</adress>
+	<size>17172</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeAUM5.1All1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeAUM5.1All\AdobeAUM5.1All1.cab</adress>
+	<size>1077775</size>
+	<sha1>61e71dc4ba31602142b0cb2d59fe50688b3f04af</sha1>
+</file>
+<file>
+	<name>&quot;AdobeBridge2All.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeBridge2All\AdobeBridge2All.boot.xml</adress>
+	<size>5143</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeBridge2All.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeBridge2All\AdobeBridge2All.msi</adress>
+	<size>2635776</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeBridge2All.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeBridge2All\AdobeBridge2All.proxy.xml</adress>
+	<size>4198302</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeBridge2All1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeBridge2All\AdobeBridge2All1.cab</adress>
+	<size>76165668</size>
+	<sha1>847936a004b5a86bff624d64929cee78e1cffac6</sha1>
+</file>
+<file>
+	<name>&quot;AdobeCameraRaw4.0All.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeCameraRaw4.0All\AdobeCameraRaw4.0All.boot.xml</adress>
+	<size>5435</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeCameraRaw4.0All.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeCameraRaw4.0All\AdobeCameraRaw4.0All.msi</adress>
+	<size>1807360</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeCameraRaw4.0All.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeCameraRaw4.0All\AdobeCameraRaw4.0All.proxy.xml</adress>
+	<size>23393</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeCameraRaw4.0All1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeCameraRaw4.0All\AdobeCameraRaw4.0All1.cab</adress>
+	<size>2585562</size>
+	<sha1>1e993b0b8aaf93c7649806116c62faff2eddc3f0</sha1>
+</file>
+<file>
+	<name>&quot;AdobeCMapsAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeCMapsAll\AdobeCMapsAll.boot.xml</adress>
+	<size>4975</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeCMapsAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeCMapsAll\AdobeCMapsAll.msi</adress>
+	<size>1798656</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeCMapsAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeCMapsAll\AdobeCMapsAll.proxy.xml</adress>
+	<size>6647</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeCMapsAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeCMapsAll\AdobeCMapsAll1.cab</adress>
+	<size>967670</size>
+	<sha1>836d7c77b170c1ad93330e0c8ec7e15028015fec</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorCommonSetAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorCommonSetAll\AdobeColorCommonSetAll.boot.xml</adress>
+	<size>5777</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorCommonSetAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorCommonSetAll\AdobeColorCommonSetAll.msi</adress>
+	<size>1773568</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorCommonSetAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorCommonSetAll\AdobeColorCommonSetAll.proxy.xml</adress>
+	<size>7522</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorCommonSetAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorCommonSetAll\AdobeColorCommonSetAll1.cab</adress>
+	<size>5094457</size>
+	<sha1>e36714580aa51ab9844bd2050f83600165a95d44</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorEU_RecommendedAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\AdobeColorEU_RecommendedAll.boot.xml</adress>
+	<size>4144</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorEU_RecommendedAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\AdobeColorEU_RecommendedAll.msi</adress>
+	<size>1761792</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorEU_RecommendedAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\AdobeColorEU_RecommendedAll.proxy.xml</adress>
+	<size>6088</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorEU_RecommendedAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\AdobeColorEU_RecommendedAll1.cab</adress>
+	<size>369298</size>
+	<sha1>f2f52729eeb9a4c5746dca7dd9dc286cba0bcacd</sha1>
+</file>
+<file>
+	<name>&quot;ar_AE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\ar_AE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;cs_CZ.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\cs_CZ.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;da_DK.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\da_DK.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;de_DE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\de_DE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;el_GR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\el_GR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_GB.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\en_GB.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_XM.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\en_XM.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;es_ES.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\es_ES.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fi_FI.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\fi_FI.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fr_FR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\fr_FR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fr_XM.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\fr_XM.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;he_IL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\he_IL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;hu_HU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\hu_HU.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;it_IT.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\it_IT.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nb_NO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\nb_NO.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nl_NL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\nl_NL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pl_PL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\pl_PL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pt_BR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\pt_BR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ro_RO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\ro_RO.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ru_RU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\ru_RU.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sv_SE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\sv_SE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;tr_TR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\tr_TR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;uk_UA.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorEU_RecommendedAll\uk_UA.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorJA_ExtraSettingsAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\AdobeColorJA_ExtraSettingsAll.boot.xml</adress>
+	<size>4138</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorJA_ExtraSettingsAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\AdobeColorJA_ExtraSettingsAll.msi</adress>
+	<size>1762304</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorJA_ExtraSettingsAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\AdobeColorJA_ExtraSettingsAll.proxy.xml</adress>
+	<size>6150</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorJA_ExtraSettingsAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\AdobeColorJA_ExtraSettingsAll1.cab</adress>
+	<size>1384144</size>
+	<sha1>ad4ead0db926f53b4f68b14b3ed97ddc7e933927</sha1>
+</file>
+<file>
+	<name>&quot;ar_AE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\ar_AE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;cs_CZ.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\cs_CZ.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;da_DK.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\da_DK.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;de_DE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\de_DE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;el_GR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\el_GR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_GB.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\en_GB.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_US.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\en_US.mst</adress>
+	<size>3584</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_XM.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\en_XM.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;es_ES.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\es_ES.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fi_FI.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\fi_FI.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fr_FR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\fr_FR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fr_XM.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\fr_XM.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;he_IL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\he_IL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;hu_HU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\hu_HU.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;it_IT.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\it_IT.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nb_NO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\nb_NO.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nl_NL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\nl_NL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pl_PL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\pl_PL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pt_BR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\pt_BR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ro_RO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\ro_RO.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ru_RU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\ru_RU.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sv_SE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\sv_SE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;tr_TR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\tr_TR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;uk_UA.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorJA_ExtraSettingsAll\uk_UA.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorNA_ExtraSettingsAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\AdobeColorNA_ExtraSettingsAll.boot.xml</adress>
+	<size>4546</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorNA_ExtraSettingsAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\AdobeColorNA_ExtraSettingsAll.msi</adress>
+	<size>1761792</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorNA_ExtraSettingsAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\AdobeColorNA_ExtraSettingsAll.proxy.xml</adress>
+	<size>6499</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorNA_ExtraSettingsAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\AdobeColorNA_ExtraSettingsAll1.cab</adress>
+	<size>367786</size>
+	<sha1>30ed20714cc29f6b9e5820402c002c0c75d31aae</sha1>
+</file>
+<file>
+	<name>&quot;ar_AE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\ar_AE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;cs_CZ.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\cs_CZ.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;da_DK.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\da_DK.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;de_DE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\de_DE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;el_GR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\el_GR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_GB.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\en_GB.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_XM.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\en_XM.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;es_ES.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\es_ES.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fi_FI.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\fi_FI.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fr_FR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\fr_FR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fr_XM.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\fr_XM.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;he_IL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\he_IL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;hu_HU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\hu_HU.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;it_IT.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\it_IT.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ja_JP.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\ja_JP.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ko_KR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\ko_KR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nb_NO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\nb_NO.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nl_NL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\nl_NL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pl_PL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\pl_PL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pt_BR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\pt_BR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ro_RO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\ro_RO.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ru_RU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\ru_RU.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sv_SE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\sv_SE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;tr_TR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\tr_TR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;uk_UA.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\uk_UA.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;zh_CN.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\zh_CN.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;zh_TW.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorNA_ExtraSettingsAll\zh_TW.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorPhotoshopAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorPhotoshopAll\AdobeColorPhotoshopAll.boot.xml</adress>
+	<size>6022</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorPhotoshopAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorPhotoshopAll\AdobeColorPhotoshopAll.msi</adress>
+	<size>1763840</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorPhotoshopAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorPhotoshopAll\AdobeColorPhotoshopAll.proxy.xml</adress>
+	<size>7958</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeColorPhotoshopAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeColorPhotoshopAll\AdobeColorPhotoshopAll1.cab</adress>
+	<size>255260</size>
+	<sha1>7972be7f9a2e951f5718f6ae840153b3e071a736</sha1>
+</file>
+<file>
+	<name>&quot;AdobeDefaultLanguageCS3All.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\AdobeDefaultLanguageCS3All.boot.xml</adress>
+	<size>5405</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeDefaultLanguageCS3All.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\AdobeDefaultLanguageCS3All.msi</adress>
+	<size>1761280</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeDefaultLanguageCS3All.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\AdobeDefaultLanguageCS3All.proxy.xml</adress>
+	<size>7053</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeDefaultLanguageCS3All1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\AdobeDefaultLanguageCS3All1.cab</adress>
+	<size>1488</size>
+	<sha1>0fdf60cca6d5c86500693691fc9d16bf9ff584f4</sha1>
+</file>
+<file>
+	<name>&quot;ar_AE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\ar_AE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;bg_BG.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\bg_BG.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ca_ES.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\ca_ES.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;cs_CZ.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\cs_CZ.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;da_DK.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\da_DK.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;de_DE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\de_DE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;el_GR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\el_GR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_GB.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\en_GB.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_US.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\en_US.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;es_ES.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\es_ES.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;et_EE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\et_EE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fi_FI.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\fi_FI.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fr_FR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\fr_FR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;he_IL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\he_IL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;hr_HR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\hr_HR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;hu_HU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\hu_HU.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;it_IT.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\it_IT.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ja_JP.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\ja_JP.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ko_KR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\ko_KR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;lt_LT.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\lt_LT.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;lv_LV.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\lv_LV.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nb_NO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\nb_NO.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nl_NL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\nl_NL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pl_PL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\pl_PL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pt_BR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\pt_BR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ro_RO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\ro_RO.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ru_RU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\ru_RU.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sk_SK.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\sk_SK.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sl_SI.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\sl_SI.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sv_SE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\sv_SE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;tr_TR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\tr_TR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;uk_UA.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\uk_UA.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;zh_CN.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\zh_CN.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;zh_TW.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDefaultLanguageCS3All\zh_TW.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeDeviceCentralAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\AdobeDeviceCentralAll.boot.xml</adress>
+	<size>5644</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeDeviceCentralAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\AdobeDeviceCentralAll.msi</adress>
+	<size>2204160</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeDeviceCentralAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\AdobeDeviceCentralAll.proxy.xml</adress>
+	<size>24977</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeDeviceCentralAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\AdobeDeviceCentralAll1.cab</adress>
+	<size>57581631</size>
+	<sha1>1a9dd781aaafb183ed28a682e8f2ed5bdf37bd53</sha1>
+</file>
+<file>
+	<name>&quot;Device Central CS3 Bitte lesen.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\oem\Adobe Device Central CS3\Device Central CS3 Bitte lesen.html</adress>
+	<size>16752</size>
+	<sha1>9c248427e4a045bb61c863530445561bd0d138e0</sha1>
+</file>
+<file>
+	<name>&quot;Device Central CS3 Ilgeobogi.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\oem\Adobe Device Central CS3\Device Central CS3 Ilgeobogi.html</adress>
+	<size>15745</size>
+	<sha1>de5432971b3e094e0557175e4d8d3abcc1d17134</sha1>
+</file>
+<file>
+	<name>&quot;Device Central CS3 Lees mij.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\oem\Adobe Device Central CS3\Device Central CS3 Lees mij.html</adress>
+	<size>14882</size>
+	<sha1>9c248427e4a045bb61c863530445561bd0d138e0</sha1>
+</file>
+<file>
+	<name>&quot;Device Central CS3 Leggimi.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\oem\Adobe Device Central CS3\Device Central CS3 Leggimi.html</adress>
+	<size>15833</size>
+	<sha1>9c248427e4a045bb61c863530445561bd0d138e0</sha1>
+</file>
+<file>
+	<name>&quot;Device Central CS3 Lisez-moi.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\oem\Adobe Device Central CS3\Device Central CS3 Lisez-moi.html</adress>
+	<size>17790</size>
+	<sha1>9c248427e4a045bb61c863530445561bd0d138e0</sha1>
+</file>
+<file>
+	<name>&quot;Device Central CS3 LВame.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\oem\Adobe Device Central CS3\Device Central CS3 LВame.html</adress>
+	<size>17640</size>
+	<sha1>9c248427e4a045bb61c863530445561bd0d138e0</sha1>
+</file>
+<file>
+	<name>&quot;Device Central CS3 Oyomikudasai.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\oem\Adobe Device Central CS3\Device Central CS3 Oyomikudasai.html</adress>
+	<size>14534</size>
+	<sha1>9c248427e4a045bb61c863530445561bd0d138e0</sha1>
+</file>
+<file>
+	<name>&quot;Device Central CS3 Read Me.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\oem\Adobe Device Central CS3\Device Central CS3 Read Me.html</adress>
+	<size>14418</size>
+	<sha1>9c248427e4a045bb61c863530445561bd0d138e0</sha1>
+</file>
+<file>
+	<name>&quot;Device Central CS3 Tu Wo Tang An.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\oem\Adobe Device Central CS3\Device Central CS3 Tu Wo Tang An.html</adress>
+	<size>13755</size>
+	<sha1>9c248427e4a045bb61c863530445561bd0d138e0</sha1>
+</file>
+<file>
+	<name>&quot;Device Central CS3 Viktigt.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\oem\Adobe Device Central CS3\Device Central CS3 Viktigt.html</adress>
+	<size>15261</size>
+	<sha1>9c248427e4a045bb61c863530445561bd0d138e0</sha1>
+</file>
+<file>
+	<name>&quot;Device Central CS3 Zishu.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeDeviceCentralAll\oem\Adobe Device Central CS3\Device Central CS3 Zishu.html</adress>
+	<size>14128</size>
+	<sha1>9c248427e4a045bb61c863530445561bd0d138e0</sha1>
+</file>
+<file>
+	<name>&quot;AdobeExtendScriptToolKitAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\AdobeExtendScriptToolKitAll.boot.xml</adress>
+	<size>7097</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeExtendScriptToolKitAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\AdobeExtendScriptToolKitAll.msi</adress>
+	<size>2439680</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeExtendScriptToolKitAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\AdobeExtendScriptToolKitAll.proxy.xml</adress>
+	<size>1845945</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeExtendScriptToolKitAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\AdobeExtendScriptToolKitAll1.cab</adress>
+	<size>5975692</size>
+	<sha1>4c554c58f3940ed3d72b5c9d8126ae35bb1ccbdd</sha1>
+</file>
+<file>
+	<name>&quot;ar_AE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\ar_AE.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;be_BY.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\be_BY.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;bg_BG.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\bg_BG.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ca_ES.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\ca_ES.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;cs_CZ.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\cs_CZ.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;da_DK.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\da_DK.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;de_DE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\de_DE.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;el_GR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\el_GR.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_GB.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\en_GB.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_US.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\en_US.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_XC.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\en_XC.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_XM.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\en_XM.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;es_ES.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\es_ES.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;es_QM.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\es_QM.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;et_EE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\et_EE.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fi_FI.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\fi_FI.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fr_FR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\fr_FR.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fr_XM.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\fr_XM.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;he_IL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\he_IL.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;hi_IN.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\hi_IN.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;hr_HR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\hr_HR.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;hu_HU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\hu_HU.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;is_IS.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\is_IS.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;it_IT.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\it_IT.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ja_JP.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\ja_JP.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ko_KR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\ko_KR.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;lt_LT.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\lt_LT.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;lv_LV.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\lv_LV.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;mk_MK.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\mk_MK.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nb_NO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\nb_NO.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nl_NL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\nl_NL.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pl_PL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\pl_PL.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pt_BR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\pt_BR.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ro_RO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\ro_RO.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ru_RU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\ru_RU.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sh_YU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\sh_YU.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sk_SK.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\sk_SK.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sl_SI.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\sl_SI.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sq_AL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\sq_AL.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sv_SE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\sv_SE.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;th_TH.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\th_TH.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;tr_TR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\tr_TR.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;uk_UA.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\uk_UA.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;vi_VN.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\vi_VN.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;zh_CN.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\zh_CN.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;zh_TW.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeExtendScriptToolKitAll\zh_TW.mst</adress>
+	<size>4608</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeFontsAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeFontsAll\AdobeFontsAll.boot.xml</adress>
+	<size>5188</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeFontsAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeFontsAll\AdobeFontsAll.msi</adress>
+	<size>1790464</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeFontsAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeFontsAll\AdobeFontsAll.proxy.xml</adress>
+	<size>7148</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeFontsAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeFontsAll\AdobeFontsAll1.cab</adress>
+	<size>46017514</size>
+	<sha1>936f7a9169fd26ada85a8cb310e725bacd477af3</sha1>
+</file>
+<file>
+	<name>&quot;AdobeHelpViewerAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeHelpViewerAll\AdobeHelpViewerAll.boot.xml</adress>
+	<size>5396</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeHelpViewerAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeHelpViewerAll\AdobeHelpViewerAll.msi</adress>
+	<size>1781248</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeHelpViewerAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeHelpViewerAll\AdobeHelpViewerAll.proxy.xml</adress>
+	<size>9702</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeHelpViewerAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeHelpViewerAll\AdobeHelpViewerAll1.cab</adress>
+	<size>1198680</size>
+	<sha1>2051ad99c8750817c668d9fa80bfc5aa6053f4a5</sha1>
+</file>
+<file>
+	<name>&quot;AdobeLinguisticsAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeLinguisticsAll\AdobeLinguisticsAll.boot.xml</adress>
+	<size>5582</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeLinguisticsAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeLinguisticsAll\AdobeLinguisticsAll.msi</adress>
+	<size>1807360</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeLinguisticsAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeLinguisticsAll\AdobeLinguisticsAll.proxy.xml</adress>
+	<size>8493</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeLinguisticsAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeLinguisticsAll\AdobeLinguisticsAll1.cab</adress>
+	<size>31902614</size>
+	<sha1>501b5444ec9cf7a7b010b00d321f994b4943537d</sha1>
+</file>
+<file>
+	<name>&quot;AdobePDFL8All.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFL8All\AdobePDFL8All.boot.xml</adress>
+	<size>5562</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobePDFL8All.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFL8All\AdobePDFL8All.msi</adress>
+	<size>1775616</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobePDFL8All.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFL8All\AdobePDFL8All.proxy.xml</adress>
+	<size>7163</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobePDFL8All1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFL8All\AdobePDFL8All1.cab</adress>
+	<size>37799892</size>
+	<sha1>02ac0aa9ba423184d13333ee9748c56fd5e2500d</sha1>
+</file>
+<file>
+	<name>&quot;AdobePDFSettingsAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\AdobePDFSettingsAll.boot.xml</adress>
+	<size>5131</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobePDFSettingsAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\AdobePDFSettingsAll.msi</adress>
+	<size>1829376</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobePDFSettingsAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\AdobePDFSettingsAll.proxy.xml</adress>
+	<size>6077</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobePDFSettingsAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\AdobePDFSettingsAll1.cab</adress>
+	<size>26260</size>
+	<sha1>cfb916966cae09ef212eff1ccd9bf4d65f791d5c</sha1>
+</file>
+<file>
+	<name>&quot;ar_AE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\ar_AE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;cs_CZ.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\cs_CZ.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;da_DK.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\da_DK.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;de_DE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\de_DE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;el_GR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\el_GR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_GB.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\en_GB.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_US.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\en_US.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;en_XM.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\en_XM.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;es_ES.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\es_ES.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fi_FI.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\fi_FI.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fr_FR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\fr_FR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;fr_XM.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\fr_XM.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;he_IL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\he_IL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;hu_HU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\hu_HU.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;it_IT.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\it_IT.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nb_NO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\nb_NO.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;nl_NL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\nl_NL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;no_NO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\no_NO.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pl_PL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\pl_PL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;pt_BR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\pt_BR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ro_RO.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\ro_RO.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;ru_RU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\ru_RU.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sl_SI.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\sl_SI.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sq_AL.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\sq_AL.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;sv_SE.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\sv_SE.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;tr_TR.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\tr_TR.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;uk_UA.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePDFSettingsNAEU\uk_UA.mst</adress>
+	<size>4096</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobePhotoshop10ru_RU.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePhotoshop10ru_RU\AdobePhotoshop10ru_RU.boot.xml</adress>
+	<size>9049</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobePhotoshop10ru_RU.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePhotoshop10ru_RU\AdobePhotoshop10ru_RU.msi</adress>
+	<size>3033088</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobePhotoshop10ru_RU.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePhotoshop10ru_RU\AdobePhotoshop10ru_RU.proxy.xml</adress>
+	<size>5685608</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobePhotoshop10ru_RU1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePhotoshop10ru_RU\AdobePhotoshop10ru_RU1.cab</adress>
+	<size>139817670</size>
+	<sha1>557027d077c331322ee161c503542c8a50c5ae9b</sha1>
+</file>
+<file>
+	<name>&quot;ru_RU.mst&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobePhotoshop10ru_RU\ru_RU.mst</adress>
+	<size>32768</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeStockPhotos1.5All.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeStockPhotos1.5All\AdobeStockPhotos1.5All.boot.xml</adress>
+	<size>5550</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeStockPhotos1.5All.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeStockPhotos1.5All\AdobeStockPhotos1.5All.msi</adress>
+	<size>2476032</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeStockPhotos1.5All.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeStockPhotos1.5All\AdobeStockPhotos1.5All.proxy.xml</adress>
+	<size>13723</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeStockPhotos1.5All1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeStockPhotos1.5All\AdobeStockPhotos1.5All1.cab</adress>
+	<size>1697050</size>
+	<sha1>0eca448612d342a311211e1d2a9cae143fa0c20a</sha1>
+</file>
+<file>
+	<name>&quot;AdobeTypeSupportAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeTypeSupportAll\AdobeTypeSupportAll.boot.xml</adress>
+	<size>5330</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeTypeSupportAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeTypeSupportAll\AdobeTypeSupportAll.msi</adress>
+	<size>1772544</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeTypeSupportAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeTypeSupportAll\AdobeTypeSupportAll.proxy.xml</adress>
+	<size>6943</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeTypeSupportAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeTypeSupportAll\AdobeTypeSupportAll1.cab</adress>
+	<size>804558</size>
+	<sha1>ef9be9632392dedd1264c0e832a786735006da94</sha1>
+</file>
+<file>
+	<name>&quot;AdobeVersionCueClient3All.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeVersionCueClient3All\AdobeVersionCueClient3All.boot.xml</adress>
+	<size>5744</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeVersionCueClient3All.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeVersionCueClient3All\AdobeVersionCueClient3All.msi</adress>
+	<size>2256384</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeVersionCueClient3All.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeVersionCueClient3All\AdobeVersionCueClient3All.proxy.xml</adress>
+	<size>8835</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeVersionCueClient3All1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeVersionCueClient3All\AdobeVersionCueClient3All1.cab</adress>
+	<size>4822066</size>
+	<sha1>8c91afab2e30b99b064f4f8c6e1c61ae80fa7406</sha1>
+</file>
+<file>
+	<name>&quot;AdobeWinSoftLinguisticsPluginAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeWinSoftLinguisticsPluginAll\AdobeWinSoftLinguisticsPluginAll.boot.xml</adress>
+	<size>6045</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeWinSoftLinguisticsPluginAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeWinSoftLinguisticsPluginAll\AdobeWinSoftLinguisticsPluginAll.msi</adress>
+	<size>1771520</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeWinSoftLinguisticsPluginAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeWinSoftLinguisticsPluginAll\AdobeWinSoftLinguisticsPluginAll.proxy.xml</adress>
+	<size>9174</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeWinSoftLinguisticsPluginAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeWinSoftLinguisticsPluginAll\AdobeWinSoftLinguisticsPluginAll1.cab</adress>
+	<size>3624457</size>
+	<sha1>0e6f85921b1ceb4d4ee297a0e539aa9c55cc79b0</sha1>
+</file>
+<file>
+	<name>&quot;AdobeXMPPanelsAll.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeXMPPanelsAll\AdobeXMPPanelsAll.boot.xml</adress>
+	<size>5437</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeXMPPanelsAll.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeXMPPanelsAll\AdobeXMPPanelsAll.msi</adress>
+	<size>1763840</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;AdobeXMPPanelsAll.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeXMPPanelsAll\AdobeXMPPanelsAll.proxy.xml</adress>
+	<size>7683</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;AdobeXMPPanelsAll1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\AdobeXMPPanelsAll\AdobeXMPPanelsAll1.cab</adress>
+	<size>23648</size>
+	<sha1>3a61b4cf98ed2fb778964232f5e35d3ad7d07525</sha1>
+</file>
+<file>
+	<name>&quot;BridgeStartMeeting.boot.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\BridgeStartMeeting\BridgeStartMeeting.boot.xml</adress>
+	<size>5716</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;BridgeStartMeeting.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\BridgeStartMeeting\BridgeStartMeeting.msi</adress>
+	<size>1766400</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;BridgeStartMeeting.proxy.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\BridgeStartMeeting\BridgeStartMeeting.proxy.xml</adress>
+	<size>8920</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;BridgeStartMeeting1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\BridgeStartMeeting\BridgeStartMeeting1.cab</adress>
+	<size>334922</size>
+	<sha1>a5bb41865210ba5faed38805fdea02999d66507d</sha1>
+</file>
+<file>
+	<name>&quot;setup.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\payloads\setup.xml</adress>
+	<size>1742</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;WindowsInstaller-KB893803-v2-x86.exe&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\redist\WindowsInstaller-KB893803-v2-x86.exe</adress>
+	<size>2585872</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;WindowsServer2003-KB898715-ia64-enu.exe&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\redist\WindowsServer2003-KB898715-ia64-enu.exe</adress>
+	<size>5960944</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;WindowsServer2003-KB898715-x64-enu.exe&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\redist\WindowsServer2003-KB898715-x64-enu.exe</adress>
+	<size>4584688</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;WindowsServer2003-KB898715-x86-enu.exe&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\redist\WindowsServer2003-KB898715-x86-enu.exe</adress>
+	<size>1536752</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;WindowsXP-KB898715-x64-enu.exe&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\redist\WindowsXP-KB898715-x64-enu.exe</adress>
+	<size>4584688</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;alert.css&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\common\alert\alert.css</adress>
+	<size>583</size>
+	<sha1>c889a3cdab6bc476607c2edba87b259dd78c6cfe</sha1>
+</file>
+<file>
+	<name>&quot;alert.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\common\alert\alert.html</adress>
+	<size>2418</size>
+	<sha1>9c248427e4a045bb61c863530445561bd0d138e0</sha1>
+</file>
+<file>
+	<name>&quot;alert_ie.css&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\common\alert\alert_ie.css</adress>
+	<size>508</size>
+	<sha1>a8f836f3df225bc1836d6519f515e12eedb5cee7</sha1>
+</file>
+<file>
+	<name>&quot;ContainerProxy.js&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\common\scripts\ContainerProxy.js</adress>
+	<size>32241</size>
+	<sha1>24589d404950da1e4ecfb6040003e20063955e51</sha1>
+</file>
+<file>
+	<name>&quot;localization.js&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\common\scripts\localization.js</adress>
+	<size>9181</size>
+	<sha1>4caccfcfefc5b1ca7017acca627722277cb63dff</sha1>
+</file>
+<file>
+	<name>&quot;silentWorkflow.js&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\common\scripts\silentWorkflow.js</adress>
+	<size>46303</size>
+	<sha1>24589d404950da1e4ecfb6040003e20063955e51</sha1>
+</file>
+<file>
+	<name>&quot;utils.js&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\common\scripts\utils.js</adress>
+	<size>110156</size>
+	<sha1>33d45c548cff311a1698e21c3bb3190d2f563b33</sha1>
+</file>
+<file>
+	<name>&quot;main.html&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\main.html</adress>
+	<size>7292</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;main.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\main.xml</adress>
+	<size>25993</size>
+	<sha1>c0ea314fcd45bd665dbde789ccc3bc2a98214537</sha1>
+</file>
+<file>
+	<name>&quot;styles.css&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\media\css\styles.css</adress>
+	<size>1572</size>
+	<sha1>1f14e0c1e66777a5eadf60a86d235cea5b6966a6</sha1>
+</file>
+<file>
+	<name>&quot;progbarLeft_on.png&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\media\img\progbarLeft_on.png</adress>
+	<size>270</size>
+	<sha1>1a7f2a7f09d0f771c627fa0fae11053784459872</sha1>
+</file>
+<file>
+	<name>&quot;progbarRight.png&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\media\img\progbarRight.png</adress>
+	<size>273</size>
+	<sha1>1a7f2a7f09d0f771c627fa0fae11053784459872</sha1>
+</file>
+<file>
+	<name>&quot;progbar_on.png&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\media\img\progbar_on.png</adress>
+	<size>162</size>
+	<sha1>1a7f2a7f09d0f771c627fa0fae11053784459872</sha1>
+</file>
+<file>
+	<name>&quot;progbox.png&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\resources\media\img\progbox.png</adress>
+	<size>1692</size>
+	<sha1>1a7f2a7f09d0f771c627fa0fae11053784459872</sha1>
+</file>
+<file>
+	<name>&quot;Setup.exe&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\Setup.exe</adress>
+	<size>2689208</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;WinBootstrapper.msi&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\WinBootstrapper.msi</adress>
+	<size>1900544</size>
+	<sha1>beeb87ae449e65a1f4d72f41b9f217423b0159e8</sha1>
+</file>
+<file>
+	<name>&quot;WinBootstrapper1.cab&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\Photoshop\WinBootstrapper1.cab</adress>
+	<size>511676</size>
+	<sha1>c1700a348434dc125d19b21a0953ffcbd307edcb</sha1>
+</file>
+<file>
+	<name>&quot;AdobeCS3CleanReadMe.pdf&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\AdobeCS3CleanReadMe.pdf</adress>
+	<size>75972</size>
+	<sha1>002a2fbe66fadabb5fffbf19481f53193dd7b02b</sha1>
+</file>
+<file>
+	<name>&quot;CleanUpRMDIR.exe&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\CleanUpRMDIR.exe</adress>
+	<size>30720</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;CS3Clean.exe&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\CS3Clean.exe</adress>
+	<size>242977</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;CS3Clean.exe.manifest&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\CS3Clean.exe.manifest</adress>
+	<size>656</size>
+	<sha1>c0ea314fcd45bd665dbde789ccc3bc2a98214537</sha1>
+</file>
+<file>
+	<name>&quot;CS4CleanUpAddition.exe&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\CS4CleanUpAddition.exe</adress>
+	<size>45056</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;python23.dll&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\python23.dll</adress>
+	<size>974929</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;PyWinTypes23.dll&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\PyWinTypes23.dll</adress>
+	<size>98304</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;VersionInfo.xml&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\VersionInfo.xml</adress>
+	<size>119</size>
+	<sha1>2f7324b79654d609da9682ee5b49fb3c1675a3aa</sha1>
+</file>
+<file>
+	<name>&quot;win32api.pyd&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\win32api.pyd</adress>
+	<size>69720</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;win32security.pyd&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\win32security.pyd</adress>
+	<size>65536</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;zlib.pyd&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\zlib.pyd</adress>
+	<size>61542</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;_sre.pyd&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\CS3Clean Script\_sre.pyd</adress>
+	<size>57421</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;msicuu2.exe&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_!!!!!!!\Windows Installer Clean Up\msicuu2.exe</adress>
+	<size>359656</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;info.txt&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_keygen\key_Photoshop_CS3_10_RU\info.txt</adress>
+	<size>643</size>
+	<sha1>b8a4ff055c25a65fe7a32f119777d3484fe94c99</sha1>
+</file>
+<file>
+	<name>&quot;key_Photoshop_CS3_10_RU.zip&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_keygen\key_Photoshop_CS3_10_RU\key_Photoshop_CS3_10_RU.zip</adress>
+	<size>85892</size>
+	<sha1>b936d15442eee07261e493c3c95ecd09c196b470</sha1>
+</file>
+<file>
+	<name>&quot;Реактивация продуктов ADOBE.txt&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_keygen\key_Photoshop_CS3_10_RU\Реактивация продуктов ADOBE.txt</adress>
+	<size>1114</size>
+	<sha1>d366996270c38a9becfde0702d7b3011168fb6b9</sha1>
+</file>
+<file>
+	<name>&quot;key_Photoshop_CS3_10_RU.rar&quot;</name>
+	<adress>\Adobe Photoshop CS3 v10_RU\_keygen\key_Photoshop_CS3_10_RU.rar</adress>
+	<size>90981</size>
+	<sha1>f82b88f7001ecb24657b7405f2aabaf34e45fb24</sha1>
+</file>
+<file>
+	<name>&quot;Cossacks.2.Napoleonic.Wars.2005.PC.iso&quot;</name>
+	<adress>\Cossacks.2.Napoleonic.Wars.2005.PC.iso</adress>
+	<size>820133888</size>
+	<sha1>9694c4ebd673a5e2fd26e4b2e64f92e914ebd95f</sha1>
+</file>
+<file>
+	<name>&quot;Football_Manager_2014_repack_v2_fileclub_team.iso&quot;</name>
+	<adress>\Football_Manager_2014_repack_v2_fileclub_team.iso</adress>
+	<size>1774020608</size>
+	<sha1>9694c4ebd673a5e2fd26e4b2e64f92e914ebd95f</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_232458.jpg&quot;</name>
+	<adress>\IMG_20130609_232458.jpg</adress>
+	<size>417347</size>
+	<sha1>e14857568313ce82ae6ab68648dab8c264b110f4</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_233008.jpg&quot;</name>
+	<adress>\IMG_20130609_233008.jpg</adress>
+	<size>566595</size>
+	<sha1>75722ebe6c572bcaeaaa057867dd3d1094979261</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_233102.jpg&quot;</name>
+	<adress>\IMG_20130609_233102.jpg</adress>
+	<size>655875</size>
+	<sha1>818aa8a6081280856c4830856eba0f5a6ee39281</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_233117.jpg&quot;</name>
+	<adress>\IMG_20130609_233117.jpg</adress>
+	<size>584067</size>
+	<sha1>104b4882d51293b6591b1462f103e1c797f7faad</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_233211.jpg&quot;</name>
+	<adress>\IMG_20130609_233211.jpg</adress>
+	<size>507843</size>
+	<sha1>6cfbc0f99ff7122845dec3e987205de26b1822de</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_233226.jpg&quot;</name>
+	<adress>\IMG_20130609_233226.jpg</adress>
+	<size>598083</size>
+	<sha1>634bf529ba1a7d8c94ffd9323b3a2eef0667d30a</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_233238.jpg&quot;</name>
+	<adress>\IMG_20130609_233238.jpg</adress>
+	<size>615747</size>
+	<sha1>63933e4f7206bf665cf7c0f1cc2e7ad03f7c8391</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_233244.jpg&quot;</name>
+	<adress>\IMG_20130609_233244.jpg</adress>
+	<size>446403</size>
+	<sha1>35856894204cc365461f3cb7464cfa89663579cc</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_233251.jpg&quot;</name>
+	<adress>\IMG_20130609_233251.jpg</adress>
+	<size>547587</size>
+	<sha1>436e2d1cc3d0af0d73adcf0a535d21f90e8d9ba7</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_233254.jpg&quot;</name>
+	<adress>\IMG_20130609_233254.jpg</adress>
+	<size>553923</size>
+	<sha1>634bf529ba1a7d8c94ffd9323b3a2eef0667d30a</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_233256.jpg&quot;</name>
+	<adress>\IMG_20130609_233256.jpg</adress>
+	<size>557635</size>
+	<sha1>0d41005c2df93269d717136eae1bd1f3379bf142</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_234107.jpg&quot;</name>
+	<adress>\IMG_20130609_234107.jpg</adress>
+	<size>520323</size>
+	<sha1>2685236e688fd1f79704a3dd24de68d574996ab1</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_234125.jpg&quot;</name>
+	<adress>\IMG_20130609_234125.jpg</adress>
+	<size>504195</size>
+	<sha1>40c0f21c96d9a4a6d31ad589b4df012fe4aee233</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_234356.jpg&quot;</name>
+	<adress>\IMG_20130609_234356.jpg</adress>
+	<size>465219</size>
+	<sha1>3970b02a453cd36050fa34afec9e007313fd1a0b</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_235238.jpg&quot;</name>
+	<adress>\IMG_20130609_235238.jpg</adress>
+	<size>456131</size>
+	<sha1>35856894204cc365461f3cb7464cfa89663579cc</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_235902.jpg&quot;</name>
+	<adress>\IMG_20130609_235902.jpg</adress>
+	<size>365891</size>
+	<sha1>e6d7525ff707c0b37853fe51b1f593e8a321826d</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130609_235938.jpg&quot;</name>
+	<adress>\IMG_20130609_235938.jpg</adress>
+	<size>382851</size>
+	<sha1>b64b6dc109a6419ad0644d5a772bf75c4c0a9798</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130610_000712.jpg&quot;</name>
+	<adress>\IMG_20130610_000712.jpg</adress>
+	<size>480963</size>
+	<sha1>442810ed5739c89e3dc91684678da7dda05eabc7</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130610_000741.jpg&quot;</name>
+	<adress>\IMG_20130610_000741.jpg</adress>
+	<size>508995</size>
+	<sha1>104b4882d51293b6591b1462f103e1c797f7faad</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130610_000809.jpg&quot;</name>
+	<adress>\IMG_20130610_000809.jpg</adress>
+	<size>476355</size>
+	<sha1>104b4882d51293b6591b1462f103e1c797f7faad</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130610_001950.jpg&quot;</name>
+	<adress>\IMG_20130610_001950.jpg</adress>
+	<size>505283</size>
+	<sha1>104b4882d51293b6591b1462f103e1c797f7faad</sha1>
+</file>
+<file>
+	<name>&quot;IMG_20130610_002751.jpg&quot;</name>
+	<adress>\IMG_20130610_002751.jpg</adress>
+	<size>371779</size>
+	<sha1>3970b02a453cd36050fa34afec9e007313fd1a0b</sha1>
+</file>
+<file>
+	<name>&quot;Moj.paren.psih.2012.XviD.AC3.BDRip.Rus.avi&quot;</name>
+	<adress>\Moj.paren.psih.2012.XviD.AC3.BDRip.Rus.avi</adress>
+	<size>1564334080</size>
+	<sha1>5f6311d3028c754cd462606b17d80c3400fc06bc</sha1>
+</file>
+<file>
+	<name>&quot;.] club16922067 [. - Рингтон [Не вешать нос,гардемарины] OST.mp3&quot;</name>
+	<adress>\Music\.] club16922067 [. - Рингтон [Не вешать нос,гардемарины] OST.mp3</adress>
+	<size>305238</size>
+	<sha1>27fe7819d1fcd41f763941b04bebc71cecf6610f</sha1>
+</file>
+<file>
+	<name>&quot;Bon Jovi - It&apos;s my life(медленная версия). Шикарная композиция!!!!!.mp3&quot;</name>
+	<adress>\Music\Bon Jovi - It&apos;s my life(медленная версия). Шикарная композиция!!!!!.mp3</adress>
+	<size>3545964</size>
+	<sha1>9694c4ebd673a5e2fd26e4b2e64f92e914ebd95f</sha1>
+</file>
+<file>
+	<name>&quot;Children Of Bodom - The Final CountDown (Europe Cover).mp3&quot;</name>
+	<adress>\Music\Children Of Bodom - The Final CountDown (Europe Cover).mp3</adress>
+	<size>7929856</size>
+	<sha1>d3e7be2fb7ac924a0bf3be14b5fb7cecfe1d0f88</sha1>
+</file>
+<file>
+	<name>&quot;Joe Hisaishi - The Song From A Secret Garden.mp3&quot;</name>
+	<adress>\Music\Joe Hisaishi - The Song From A Secret Garden.mp3</adress>
+	<size>5099494</size>
+	<sha1>67dfd85bfa844209874ed1f7924405aeb59e1203</sha1>
+</file>
+<file>
+	<name>&quot;Motor-Roller - Песня про войну.mp3&quot;</name>
+	<adress>\Music\Motor-Roller - Песня про войну.mp3</adress>
+	<size>0</size>
+	<sha1>4d919b93bd0c6fd70b24aef77fb1553e7ad041ba</sha1>
+</file>
+<file>
+	<name>&quot;Postskriptum.v.l.g. - Сталь.mp3&quot;</name>
+	<adress>\Music\Postskriptum.v.l.g. - Сталь.mp3</adress>
+	<size>7077888</size>
+	<sha1>47168dcde36d98f54cd236084e1b026e7c3efe61</sha1>
+</file>
+<file>
+	<name>&quot;Postskriptum.v.l.g. - Сталь1.mp3&quot;</name>
+	<adress>\Music\Postskriptum.v.l.g. - Сталь1.mp3</adress>
+	<size>7077888</size>
+	<sha1>47168dcde36d98f54cd236084e1b026e7c3efe61</sha1>
+</file>
+<file>
+	<name>&quot;Survivor - Eye Of A Tiger.mp3&quot;</name>
+	<adress>\Music\Survivor - Eye Of A Tiger.mp3</adress>
+	<size>3885083</size>
+	<sha1>2d9695cebf7645090553cddfe4d00faca7f8e1aa</sha1>
+</file>
+<file>
+	<name>&quot;Би-2 и Ария - Легион.mp3&quot;</name>
+	<adress>\Music\Би-2 и Ария - Легион.mp3</adress>
+	<size>4085774</size>
+	<sha1>2d9695cebf7645090553cddfe4d00faca7f8e1aa</sha1>
+</file>
+<file>
+	<name>&quot;Би-2 и Чичерина - Ветер перемен.mp3&quot;</name>
+	<adress>\Music\Би-2 и Чичерина - Ветер перемен.mp3</adress>
+	<size>1506024</size>
+	<sha1>1e8505adf7512ab4a95bd5bc094bf40963491584</sha1>
+</file>
+<file>
+	<name>&quot;ВДЦ Орлёнок - Перевал.mp3&quot;</name>
+	<adress>\Music\ВДЦ Орлёнок - Перевал.mp3</adress>
+	<size>1894528</size>
+	<sha1>9c846580039cd3f7edf9c95f62f8619895ec2661</sha1>
+</file>
+<file>
+	<name>&quot;ВИА Самоцветы - У нас, молодых.mp3&quot;</name>
+	<adress>\Music\ВИА Самоцветы - У нас, молодых.mp3</adress>
+	<size>4839552</size>
+	<sha1>64f995fd74b83cca33f169d13dbf758570be2d46</sha1>
+</file>
+<file>
+	<name>&quot;Григорий Лепс - Я Счастливый как никто!.mp3&quot;</name>
+	<adress>\Music\Григорий Лепс - Я Счастливый как никто!.mp3</adress>
+	<size>7607423</size>
+	<sha1>c676563f159157225c3aae7c725bbc0b84ce3273</sha1>
+</file>
+<file>
+	<name>&quot;Группа Герои - Когда нам будет сильно за 20.mp3&quot;</name>
+	<adress>\Music\Группа Герои - Когда нам будет сильно за 20.mp3</adress>
+	<size>7380147</size>
+	<sha1>7cfa3e21cdb1d461fd0bcbb7b1134b400808a30e</sha1>
+</file>
+<file>
+	<name>&quot;ДДТ - 04 - Эй, ты, кто ты (Иначе 2011).mp3&quot;</name>
+	<adress>\Music\ДДТ - 04 - Эй, ты, кто ты (Иначе 2011).mp3</adress>
+	<size>13917319</size>
+	<sha1>2112ee251fd36432970e639309e195053af241dc</sha1>
+</file>
+<file>
+	<name>&quot;ДДТ - А я ввязался в бой (OST Ключ Саламандры).mp3&quot;</name>
+	<adress>\Music\ДДТ - А я ввязался в бой (OST Ключ Саламандры).mp3</adress>
+	<size>5788691</size>
+	<sha1>80b4e03a9657a03b88edbacedaf26f07bf1b2a44</sha1>
+</file>
+<file>
+	<name>&quot;ДДТ - ИначеP.S. (CD1) (2011) - 15. Песня о свободе.mp3&quot;</name>
+	<adress>\Music\ДДТ - ИначеP.S. (CD1) (2011) - 15. Песня о свободе.mp3</adress>
+	<size>4120745</size>
+	<sha1>80b4e03a9657a03b88edbacedaf26f07bf1b2a44</sha1>
+</file>
+<file>
+	<name>&quot;Денис Майданов - Ничего Не Жаль (NEW 2011).mp3&quot;</name>
+	<adress>\Music\Денис Майданов - Ничего Не Жаль (NEW 2011).mp3</adress>
+	<size>8989300</size>
+	<sha1>2d9695cebf7645090553cddfe4d00faca7f8e1aa</sha1>
+</file>
+<file>
+	<name>&quot;Дмитрий Маликов  Владимир Пресняков - Мой отец.mp3&quot;</name>
+	<adress>\Music\Дмитрий Маликов  Владимир Пресняков - Мой отец.mp3</adress>
+	<size>9927606</size>
+	<sha1>233b1ae9ad82fdbdbc746556fa31bdd4c0562d71</sha1>
+</file>
+<file>
+	<name>&quot;Из к-ф Грозовые ворота - Resar.mp3&quot;</name>
+	<adress>\Music\Из к-ф Грозовые ворота - Resar.mp3</adress>
+	<size>1364219</size>
+	<sha1>ad4e2291b677c953d094dad2a47806131ef8463c</sha1>
+</file>
+<file>
+	<name>&quot;Из кф Гладиатор - Honor him.mp3&quot;</name>
+	<adress>\Music\Из кф Гладиатор - Honor him.mp3</adress>
+	<size>1917178</size>
+	<sha1>6fbd4ba9edddbfedb06b5c358a0b76fac1e764cb</sha1>
+</file>
+<file>
+	<name>&quot;Из кф Мама - Мама - первое слово, главное слово..mp3&quot;</name>
+	<adress>\Music\Из кф Мама - Мама - первое слово, главное слово..mp3</adress>
+	<size>4669439</size>
+	<sha1>9694c4ebd673a5e2fd26e4b2e64f92e914ebd95f</sha1>
+</file>
+<file>
+	<name>&quot;Имперский Марш - &apos;&apos;Звездные войны&apos;&apos;.mp3&quot;</name>
+	<adress>\Music\Имперский Марш - &apos;&apos;Звездные войны&apos;&apos;.mp3</adress>
+	<size>698872</size>
+	<sha1>2d9695cebf7645090553cddfe4d00faca7f8e1aa</sha1>
+</file>
+<file>
+	<name>&quot;КиВиН-2012 - Финальная Песня.mp3&quot;</name>
+	<adress>\Music\КиВиН-2012 - Финальная Песня.mp3</adress>
+	<size>6006181</size>
+	<sha1>4856465da3ab560679c8bdefe6f7014cf355a453</sha1>
+</file>
+<file>
+	<name>&quot;Красивая инструментальная музыка...))) - ....mp3&quot;</name>
+	<adress>\Music\Красивая инструментальная музыка...))) - ....mp3</adress>
+	<size>5503815</size>
+	<sha1>4af32ebc4a2850631e10ee2db5d599ec2f55295c</sha1>
+</file>
+<file>
+	<name>&quot;Любэ - Комбат.mp3&quot;</name>
+	<adress>\Music\Любэ - Комбат.mp3</adress>
+	<size>4863416</size>
+	<sha1>2d9695cebf7645090553cddfe4d00faca7f8e1aa</sha1>
+</file>
+<file>
+	<name>&quot;Людмила Гурченко - Не бойтесь бросить все на карту и жизнь переломить свою (из кф Вокзал для двоих).mp3&quot;</name>
+	<adress>\Music\Людмила Гурченко - Не бойтесь бросить все на карту и жизнь переломить свою (из кф Вокзал для двоих).mp3</adress>
+	<size>4443070</size>
+	<sha1>fefcff0509f0e18e53f4910822d581d8f67034a0</sha1>
+</file>
+<file>
+	<name>&quot;Ляпис Трубецкой - Я верю в ЛЮБОВЬ, Я верю в ДОБРО и верить буду...mp3&quot;</name>
+	<adress>\Music\Ляпис Трубецкой - Я верю в ЛЮБОВЬ, Я верю в ДОБРО и верить буду...mp3</adress>
+	<size>7471064</size>
+	<sha1>d9fe87aba8ed6e87efa5148a72b99bee1c11e002</sha1>
+</file>
+<file>
+	<name>&quot;Максим Леонидов - Конь.mp3&quot;</name>
+	<adress>\Music\Максим Леонидов - Конь.mp3</adress>
+	<size>9145033</size>
+	<sha1>80b4e03a9657a03b88edbacedaf26f07bf1b2a44</sha1>
+</file>
+<file>
+	<name>&quot;Машина Времени - Новый поворот.mp3&quot;</name>
+	<adress>\Music\Машина Времени - Новый поворот.mp3</adress>
+	<size>9111510</size>
+	<sha1>44efd879d32300ceecc77e587220cb4d74378821</sha1>
+</file>
+<file>
+	<name>&quot;Машина Времени - Пока Горит Свеча.mp3&quot;</name>
+	<adress>\Music\Машина Времени - Пока Горит Свеча.mp3</adress>
+	<size>10046693</size>
+	<sha1>9a81b5d5ba7e20c73e83f500cdeb19d3be1a67be</sha1>
+</file>
+<file>
+	<name>&quot;Михаил Бессонов - Крылатая пехота.mp3&quot;</name>
+	<adress>\Music\Михаил Бессонов - Крылатая пехота.mp3</adress>
+	<size>5410816</size>
+	<sha1>32b8779fa3e4c38b50f7f3edf14d05751860751d</sha1>
+</file>
+<file>
+	<name>&quot;Молодёжь России - И только ветер нам в спину.mp3&quot;</name>
+	<adress>\Music\Молодёжь России - И только ветер нам в спину.mp3</adress>
+	<size>5721070</size>
+	<sha1>2d9695cebf7645090553cddfe4d00faca7f8e1aa</sha1>
+</file>
+<file>
+	<name>&quot;Мотивация для мужчин. - Будь сильным.1.mp3&quot;</name>
+	<adress>\Music\Мотивация для мужчин. - Будь сильным.1.mp3</adress>
+	<size>1793912</size>
+	<sha1>233b1ae9ad82fdbdbc746556fa31bdd4c0562d71</sha1>
+</file>
+<file>
+	<name>&quot;Мотивация для мужчин. - Будь сильным.2.mp3&quot;</name>
+	<adress>\Music\Мотивация для мужчин. - Будь сильным.2.mp3</adress>
+	<size>0</size>
+	<sha1>4d919b93bd0c6fd70b24aef77fb1553e7ad041ba</sha1>
+</file>
+<file>
+	<name>&quot;мф Мулан - Ты боец.mp3&quot;</name>
+	<adress>\Music\мф Мулан - Ты боец.mp3</adress>
+	<size>7440598</size>
+	<sha1>8416702fa4dab8ec330ff861efd643170dbdbf0e</sha1>
+</file>
+<file>
+	<name>&quot;Неизвестный исполнитель - Капитан, капитан улыбнитесь.mp3&quot;</name>
+	<adress>\Music\Неизвестный исполнитель - Капитан, капитан улыбнитесь.mp3</adress>
+	<size>5044715</size>
+	<sha1>8ffe417d706ac96e4a1c913a474b1f422c4bf147</sha1>
+</file>
+<file>
+	<name>&quot;Океан Ельзи - Така, як ти (OST Мы из Будущего 2).mp3&quot;</name>
+	<adress>\Music\Океан Ельзи - Така, як ти (OST Мы из Будущего 2).mp3</adress>
+	<size>3666241</size>
+	<sha1>2d9695cebf7645090553cddfe4d00faca7f8e1aa</sha1>
+</file>
+<file>
+	<name>&quot;Олег Газманов - Лёд и пламя (хоккей).mp3&quot;</name>
+	<adress>\Music\Олег Газманов - Лёд и пламя (хоккей).mp3</adress>
+	<size>2978421</size>
+	<sha1>2d9695cebf7645090553cddfe4d00faca7f8e1aa</sha1>
+</file>
+<file>
+	<name>&quot;Олег Газманов - Семь футов под килем.mp3&quot;</name>
+	<adress>\Music\Олег Газманов - Семь футов под килем.mp3</adress>
+	<size>9175092</size>
+	<sha1>ce4f90f4a89fd2728b71f19332a634d74e622a9e</sha1>
+</file>
+<file>
+	<name>&quot;Орленок - Алые Паруса.mp3&quot;</name>
+	<adress>\Music\Орленок - Алые Паруса.mp3</adress>
+	<size>4829144</size>
+	<sha1>2d9695cebf7645090553cddfe4d00faca7f8e1aa</sha1>
+</file>
+<file>
+	<name>&quot;Орленок - Философы в 13 с половиной.mp3&quot;</name>
+	<adress>\Music\Орленок - Философы в 13 с половиной.mp3</adress>
+	<size>5152081</size>
+	<sha1>4856465da3ab560679c8bdefe6f7014cf355a453</sha1>
+</file>
+<file>
+	<name>&quot;Отличная - Финальная (кф Рокки).mp3&quot;</name>
+	<adress>\Music\Отличная - Финальная (кф Рокки).mp3</adress>
+	<size>1978006</size>
+	<sha1>51f09172d0a452f00634056c48bf77901466d7b6</sha1>
+</file>
+<file>
+	<name>&quot;Песенка кота Леопольда - Я иду и пою обо всём хорошем, И улыбку свою я дарю прохожим. Если в сердце чужом не найду ответа - Неприятность эту мы переживём. Между прочим, это мы переживём....mp3&quot;</name>
+	<adress>\Music\Песенка кота Леопольда - Я иду и пою обо всём хорошем, И улыбку свою я дарю прохожим. Если в сердце чужом не найду ответа - Неприятность эту мы переживём. Между прочим, это мы переживём....mp3</adress>
+	<size>2400978</size>
+	<sha1>d7a1afb97594f9a9b2b63c77d30e58f0e16d3576</sha1>
+</file>
+<file>
+	<name>&quot;Песни нашего века - Хромой король.mp3&quot;</name>
+	<adress>\Music\Песни нашего века - Хромой король.mp3</adress>
+	<size>2155543</size>
+	<sha1>6a00ccf2bcb205a2dd2d2e25521eca26bda59c5c</sha1>
+</file>
+<file>
+	<name>&quot;Сергей Галанин - А что нам надо.mp3&quot;</name>
+	<adress>\Music\Сергей Галанин - А что нам надо.mp3</adress>
+	<size>9541858</size>
+	<sha1>2d180c388ee5de319316213faa24821e8143782d</sha1>
+</file>
+<file>
+	<name>&quot;Советские песни - Погоня! - в горячей крови.mp3&quot;</name>
+	<adress>\Music\Советские песни - Погоня! - в горячей крови.mp3</adress>
+	<size>1167488</size>
+	<sha1>24e2400b57ba8a6725971bfa7e339fbc2e54858f</sha1>
+</file>
+<file>
+	<name>&quot;Советские песни - Погоня! - в горячей крови1.mp3&quot;</name>
+	<adress>\Music\Советские песни - Погоня! - в горячей крови1.mp3</adress>
+	<size>1167488</size>
+	<sha1>24e2400b57ba8a6725971bfa7e339fbc2e54858f</sha1>
+</file>
+<file>
+	<name>&quot;Солнечные Барды - В тебе затерянный твой рай.mp3&quot;</name>
+	<adress>\Music\Солнечные Барды - В тебе затерянный твой рай.mp3</adress>
+	<size>2766538</size>
+	<sha1>387378352498ee40e3ad833c32352647f2238d59</sha1>
+</file>
+<file>
+	<name>&quot;Солнечные Барды - Дорогою добра.mp3&quot;</name>
+	<adress>\Music\Солнечные Барды - Дорогою добра.mp3</adress>
+	<size>2801664</size>
+	<sha1>19ab1224f870d39338297380a2e05674158ad688</sha1>
+</file>
+<file>
+	<name>&quot;Солнечные Барды - Живёт повсюду КРАСОТА.mp3&quot;</name>
+	<adress>\Music\Солнечные Барды - Живёт повсюду КРАСОТА.mp3</adress>
+	<size>4952690</size>
+	<sha1>67dfd85bfa844209874ed1f7924405aeb59e1203</sha1>
+</file>
+<file>
+	<name>&quot;Солнечные Барды - Здравствуй, Счастье -).mp3&quot;</name>
+	<adress>\Music\Солнечные Барды - Здравствуй, Счастье -).mp3</adress>
+	<size>6147519</size>
+	<sha1>be819bea174a832ad4c45af680c64b917baa3966</sha1>
+</file>
+<file>
+	<name>&quot;Солнечные Барды - И быть на Земле добру.mp3&quot;</name>
+	<adress>\Music\Солнечные Барды - И быть на Земле добру.mp3</adress>
+	<size>4161351</size>
+	<sha1>2d9695cebf7645090553cddfe4d00faca7f8e1aa</sha1>
+</file>
+<file>
+	<name>&quot;Солнечные Барды - Расправь крылья.mp3&quot;</name>
+	<adress>\Music\Солнечные Барды - Расправь крылья.mp3</adress>
+	<size>2868289</size>
+	<sha1>2d9695cebf7645090553cddfe4d00faca7f8e1aa</sha1>
+</file>
+<file>
+	<name>&quot;Солнечные Барды - ребята, надо верить в чудеса.mp3&quot;</name>
+	<adress>\Music\Солнечные Барды - ребята, надо верить в чудеса.mp3</adress>
+	<size>2482258</size>
+	<sha1>9694c4ebd673a5e2fd26e4b2e64f92e914ebd95f</sha1>
+</file>
+<file>
+	<name>&quot;Солнечные Барды - Солнце моё.mp3&quot;</name>
+	<adress>\Music\Солнечные Барды - Солнце моё.mp3</adress>
+	<size>7746454</size>
+	<sha1>99c569275c15aec02bb575213cc0abb8574767ac</sha1>
+</file>
+<file>
+	<name>&quot;Стивен Р. Кови - 7 навыков высокоэффективных людей 01 [Взрывные аудиокниги].mp3&quot;</name>
+	<adress>\Music\Стивен Р. Кови - 7 навыков высокоэффективных людей 01 [Взрывные аудиокниги].mp3</adress>
+	<size>50341971</size>
+	<sha1>a5082ad7989968abe1e2ea9ee763298500018d74</sha1>
+</file>
+<file>
+	<name>&quot;Стивен Р. Кови - 7 навыков высокоэффективных людей 02 [Взрывные аудиокниги].mp3&quot;</name>
+	<adress>\Music\Стивен Р. Кови - 7 навыков высокоэффективных людей 02 [Взрывные аудиокниги].mp3</adress>
+	<size>56233071</size>
+	<sha1>64a8159cb6c9605e8ef04745b071a0a546bf0f95</sha1>
+</file>
+<file>
+	<name>&quot;Стивен Р. Кови - 7 навыков высокоэффективных людей 03 [Взрывные аудиокниги].mp3&quot;</name>
+	<adress>\Music\Стивен Р. Кови - 7 навыков высокоэффективных людей 03 [Взрывные аудиокниги].mp3</adress>
+	<size>125096891</size>
+	<sha1>64a8159cb6c9605e8ef04745b071a0a546bf0f95</sha1>
+</file>
+<file>
+	<name>&quot;Стивен Р. Кови - 7 навыков высокоэффективных людей 04 [Взрывные аудиокниги].mp3&quot;</name>
+	<adress>\Music\Стивен Р. Кови - 7 навыков высокоэффективных людей 04 [Взрывные аудиокниги].mp3</adress>
+	<size>210337948</size>
+	<sha1>64a8159cb6c9605e8ef04745b071a0a546bf0f95</sha1>
+</file>
+<file>
+	<name>&quot;Стивен Р. Кови - 7 навыков высокоэффективных людей 05 [Взрывные аудиокниги].mp3&quot;</name>
+	<adress>\Music\Стивен Р. Кови - 7 навыков высокоэффективных людей 05 [Взрывные аудиокниги].mp3</adress>
+	<size>211980524</size>
+	<sha1>64a8159cb6c9605e8ef04745b071a0a546bf0f95</sha1>
+</file>
+<file>
+	<name>&quot;Стивен Р. Кови - 7 навыков высокоэффективных людей 06 [Взрывные аудиокниги].mp3&quot;</name>
+	<adress>\Music\Стивен Р. Кови - 7 навыков высокоэффективных людей 06 [Взрывные аудиокниги].mp3</adress>
+	<size>133626343</size>
+	<sha1>64a8159cb6c9605e8ef04745b071a0a546bf0f95</sha1>
+</file>
+<file>
+	<name>&quot;Танцы минус - Мне моя родная улыбается...mp3&quot;</name>
+	<adress>\Music\Танцы минус - Мне моя родная улыбается...mp3</adress>
+	<size>8092491</size>
+	<sha1>80b4e03a9657a03b88edbacedaf26f07bf1b2a44</sha1>
+</file>
+<file>
+	<name>&quot;Татьяна и Сергей Никитины (Булат Окуджава) - Всем всегда помнить !!!! Надежды маааааленький оркестрик под управлением любви!.mp3&quot;</name>
+	<adress>\Music\Татьяна и Сергей Никитины (Булат Окуджава) - Всем всегда помнить !!!! Надежды маааааленький оркестрик под управлением любви!.mp3</adress>
+	<size>3704832</size>
+	<sha1>fdc5dfbaa397832ca5c92965f57aea3d4996d32b</sha1>
+</file>
+<file>
+	<name>&quot;Татьяна и Сергей Никитины - Благодарю Вас навсегда.mp3&quot;</name>
+	<adress>\Music\Татьяна и Сергей Никитины - Благодарю Вас навсегда.mp3</adress>
+	<size>9044567</size>
+	<sha1>d9e662f41fdf1a0c6eb59c6da1f55d285f2a2950</sha1>
+</file>
+<file>
+	<name>&quot;Татьяна и Сергей Никитины - Вальс при свечах (С.Никитин - А.Вознесенский).mp3&quot;</name>
+	<adress>\Music\Татьяна и Сергей Никитины - Вальс при свечах (С.Никитин - А.Вознесенский).mp3</adress>
+	<size>6187008</size>
+	<sha1>3135438c13df8f6d5d4cae28bcfc8a97a9f9c00a</sha1>
+</file>
+<file>
+	<name>&quot;Татьяна и Сергей Никитины - Диалог у Новогодней ёлки ( Из кф Москва слезам не верит).mp3&quot;</name>
+	<adress>\Music\Татьяна и Сергей Никитины - Диалог у Новогодней ёлки ( Из кф Москва слезам не верит).mp3</adress>
+	<size>6292832</size>
+	<sha1>233b1ae9ad82fdbdbc746556fa31bdd4c0562d71</sha1>
+</file>
+<file>
+	<name>&quot;Татьяна и Сергей Никитины - Каждый выбирает для себя.mp3&quot;</name>
+	<adress>\Music\Татьяна и Сергей Никитины - Каждый выбирает для себя.mp3</adress>
+	<size>5260998</size>
+	<sha1>7695b46ed5539290fc7741a7ceb928bfabf6e9c3</sha1>
+</file>
+<file>
+	<name>&quot;Татьяна и Сергей Никитины - Кораблик детства.mp3&quot;</name>
+	<adress>\Music\Татьяна и Сергей Никитины - Кораблик детства.mp3</adress>
+	<size>3909885</size>
+	<sha1>80b4e03a9657a03b88edbacedaf26f07bf1b2a44</sha1>
+</file>
+<file>
+	<name>&quot;Татьяна и Сергей Никитины - Объяснение в любви (С.Никитин - Ю.Мориц).mp3&quot;</name>
+	<adress>\Music\Татьяна и Сергей Никитины - Объяснение в любви (С.Никитин - Ю.Мориц).mp3</adress>
+	<size>3601034</size>
+	<sha1>4856465da3ab560679c8bdefe6f7014cf355a453</sha1>
+</file>
+<file>
+	<name>&quot;Татьяна и Сергей Никитины - Путеводная звезда (муз Сергея Никитина, ст Юнны Мориц).mp3&quot;</name>
+	<adress>\Music\Татьяна и Сергей Никитины - Путеводная звезда (муз Сергея Никитина, ст Юнны Мориц).mp3</adress>
+	<size>1096556</size>
+	<sha1>3cb5e50ddf3b17b12f440a23525da62dbd0d03b2</sha1>
+</file>
+<file>
+	<name>&quot;Татьяна и Сергей Никитины - Ты у меня одна....mp3&quot;</name>
+	<adress>\Music\Татьяна и Сергей Никитины - Ты у меня одна....mp3</adress>
+	<size>3293902</size>
+	<sha1>be819bea174a832ad4c45af680c64b917baa3966</sha1>
+</file>
+<file>
+	<name>&quot;Татьяна и Сергей Никитины - Шекспир 90-й сонет.mp3&quot;</name>
+	<adress>\Music\Татьяна и Сергей Никитины - Шекспир 90-й сонет.mp3</adress>
+	<size>4425326</size>
+	<sha1>aed3791a791b5d574c810093b9246c617e1bcaf6</sha1>
+</file>
+<file>
+	<name>&quot;Уральские Пельмени - День Победы.mp3&quot;</name>
+	<adress>\Music\Уральские Пельмени - День Победы.mp3</adress>
+	<size>5374080</size>
+	<sha1>4856465da3ab560679c8bdefe6f7014cf355a453</sha1>
+</file>
+<file>
+	<name>&quot;OriginPro70(распаковать).zip&quot;</name>
+	<adress>\OriginPro70(распаковать).zip</adress>
+	<size>34140908</size>
+	<sha1>c3660ee46bde1a7efaf4b0122cdfa98adfef378b</sha1>
+</file>
+<file>
+	<name>&quot;RemoveWAT.exe&quot;</name>
+	<adress>\RemoveWAT.exe</adress>
+	<size>6664704</size>
+	<sha1>f6df3d641d9775250d352dccf5d715ec0b66f381</sha1>
+</file>
+<file>
+	<name>&quot;Shawshank.Redemption.1994.BDRip-AVC.by_dexter_lex.mkv&quot;</name>
+	<adress>\Shawshank.Redemption.1994.BDRip-AVC.by_dexter_lex.mkv</adress>
+	<size>1559028889</size>
+	<sha1>4d919b93bd0c6fd70b24aef77fb1553e7ad041ba</sha1>
+</file>
+<file>
+	<name>&quot;en_visual_studio_2010_ultimate_x86_dvd_509116.iso&quot;</name>
+	<adress>\studia\en_visual_studio_2010_ultimate_x86_dvd_509116.iso</adress>
+	<size>2446950400</size>
+	<sha1>9694c4ebd673a5e2fd26e4b2e64f92e914ebd95f</sha1>
+</file>
+<file>
+	<name>&quot;ru_windows_xp_professional_with_service_pack_3_x86_cd_x14-80484.iso&quot;</name>
+	<adress>\Windows XP MSDN\ru_windows_xp_professional_with_service_pack_3_x86_cd_x14-80484.iso</adress>
+	<size>621850624</size>
+	<sha1>9694c4ebd673a5e2fd26e4b2e64f92e914ebd95f</sha1>
+</file>
+<file>
+	<name>&quot;активация xp.avi&quot;</name>
+	<adress>\Windows XP MSDN\активация xp.avi</adress>
+	<size>10608410</size>
+	<sha1>7f8202917d3ed2769cb87cb26deade0a44815951</sha1>
+</file>
+<file>
+	<name>&quot;WXP_Atom.iso&quot;</name>
+	<adress>\WXP_Atom.iso</adress>
+	<size>108724224</size>
+	<sha1>9694c4ebd673a5e2fd26e4b2e64f92e914ebd95f</sha1>
+</file>
+<file>
+	<name>&quot;Ассемблер на примерах.pdf&quot;</name>
+	<adress>\Ассемблер на примерах.pdf</adress>
+	<size>1970817</size>
+	<sha1>3bf25d7672613b281f359f8eab34c30bac3c026f</sha1>
+</file>
